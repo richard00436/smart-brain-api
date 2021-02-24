@@ -37,7 +37,6 @@ app.listen(process.env.PORT || 3001, () => {
 	console.log(`app is runing on port ${process.env.PORT}`);
 });
 
-
 /* 
 Planing the API
 / --> re = this is working
